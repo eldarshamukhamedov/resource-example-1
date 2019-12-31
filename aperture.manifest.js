@@ -14,7 +14,7 @@ export default {
     {
       fileId: "oij2n5",
       path: "oij2n5.html",
-      type: "text-html",
+      type: "text-rich",
       component: Text.Html
     },
     {
@@ -40,7 +40,7 @@ export default {
     {
       fileId: "hx7g98",
       path: "aperture.manifest.js",
-      type: "manifest-javascript",
+      type: "code-javascript",
       component: Code.JS
     },
     {
